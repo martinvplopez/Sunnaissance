@@ -5,7 +5,7 @@ ___
 
 #### Introducción: *Renacimiento del Sol*. 
 ##### Para esta práctica se ha realizado un shader de fragmento que tiene por encima cierto diseño generativo, es decir, un ruido 2D.
-##### Se ha intentado simular una especie de aparición del sol que, a medida que se expande, el ruido es más agresivo.
+##### Se ha intentado simular una especie de aparición del sol con un amplio espectro de colores que, a medida que se expande, el ruido es más agresivo.
 ##### Inspirado por ejemplos de [The Book of Shaders de Patricio Gonzalez Vivo y Jen Lowe](https://thebookofshaders.com/).
 
 
